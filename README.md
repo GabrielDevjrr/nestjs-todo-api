@@ -26,7 +26,7 @@ Siga os passos abaixo para configurar e rodar o projeto localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO_GITHUB]
+    git clone [https://github.com/GabrielDevjrr/nestjs-todo-api]
     cd NESTJS-TODO-API
     ```
 
